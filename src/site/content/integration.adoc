@@ -90,7 +90,7 @@ from https://github.com/silb[@silb].
 +
 Apache Shiro support for the Jersey JAX-RS implementation.
 
-NOTE: This module was moved into Apache Shiro.
+NOTE: This module has been moved into Apache Shiro.
 
 * *https://github.com/silb/dropwizard-shiro[Dropwizard]*
 +
